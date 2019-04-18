@@ -1,0 +1,1 @@
+Auto generates swagger JSON documentation

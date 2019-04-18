@@ -1,0 +1,25 @@
+PATH
+  remote: .
+  specs:
+    swaggerize (0.0.0)
+      json-schema-generator
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json-schema-generator (0.0.9)
+      jsonpath
+    jsonpath (1.0.1)
+      multi_json
+      to_regexp (~> 0.2.1)
+    multi_json (1.13.1)
+    to_regexp (0.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  swaggerize!
+
+BUNDLED WITH
+   2.0.1
