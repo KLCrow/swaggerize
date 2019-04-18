@@ -1,8 +1,8 @@
-#Swaggerize
+# Swaggerize
 
 Auto generates swagger JSON documentation
 
-##Installation
+## Installation
 
 Add this line to your application's Gemfile:
 
