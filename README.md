@@ -1,4 +1,7 @@
 # Swaggerize
+ 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/761dbbcee2354bfd9ce3c54fb250ad08)](https://app.codacy.com/gh/namely/swaggerize/dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/761dbbcee2354bfd9ce3c54fb250ad08)](https://app.codacy.com/gh/namely/swaggerize/dashboard)
 
 Auto generates swagger JSON documentation
 
