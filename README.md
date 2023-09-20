@@ -10,7 +10,7 @@ Auto generates swagger JSON documentation
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'swaggerize', git: 'https://github.com/namely/swaggerize.git'
+gem 'swaggerize', git: 'https://github.com/KLCrow/swaggerize.git'
 ```
 
 And then execute:
